@@ -22,3 +22,8 @@ It displays the title, description and link to full story.
 5) Type in command "npm install". This will install all node modules necessary to run the app.
 6) After all node modules are installed properly, run the command "npm start".
 7) This will initiate app and you can see the Single Page Application on localhost:3000
+
+# Video of running the app
+
+Here is the link to the video of running the above implemented app
+https://screencast-o-matic.com/watch/cqX3DcUxYK
